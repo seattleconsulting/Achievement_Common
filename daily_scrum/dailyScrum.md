@@ -124,19 +124,30 @@
 　　　　良いのではと思った（改善点）  
 
 ## ■9月10日(研修5日目_谷)
-### 1、前回の朝会からやっていたこと
-　　▼チームでGitHubのマージなどの作業を行った  
-　　▼Dockerでmysqlに接続  
-　　▼Dockerでwebページを表示   
-　　▼DockerfileとDocker-composeの理解  
+### 　●前回の朝会からやっていたこと
+　　　▼チームでGitHubのマージなどの作業を行った  
+　　　▼Dockerでmysqlに接続  
+　　　▼Dockerでwebページを表示   
+　　　▼DockerfileとDocker-composeの理解  
+### 　●次回の朝会までにやること
+　　　▼モデリングの理解  
+　　　▼Railsの理解  
+　　　▼DockerfileとDocker-composeの作製  
+　　　▼astahを触ってみる  
+### 　●問題点
+　　　▼コンテナを起動する際にインストールした方がいいものがまだあまり理解できていない。  
 
-### 2、次回の朝会までにやること
-　　▼モデリングの理解  
-　　▼Railsの理解  
-　　▼DockerfileとDocker-composeの作製  
-　　▼astahを触ってみる  
+***
 
-### 3、問題点
-　　▼コンテナを起動する際にインストールした方がいいものがまだあまり理解できていない。  
+## ■9月10日(研修6日目_谷)
+### 　●前回の朝会からやっていたこと
+　　　▼DockerfileとDocker-composeの作製  
+　　　▼開発環境の構築をイメージできるようにする
+　　　▼モデリング、railsの研修  
+### 　●次回の朝会までにやること
+　　　▼引き続きDockerfileとDocker-composeの作製  
+　　　▼railsでデータベースとの連携を確認する  
+### 　●問題点
+　　　▼DockerfileとDocker-composeでどのようにコンテナを作製しているのかを理解するのに時間がかかっているので、時間を区切る。  
 
 ***
